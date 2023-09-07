@@ -1,0 +1,10 @@
+                                                               this is a simple sorting and searching algorithm
+  In this code :
+
+(arr)    is the input array to be sorted.
+length(arr)    returns the length of the array.
+currentValue    represents the current element being considered for insertion.
+j    is used to compare the current element
+
+
+                                                                                    thats all 
